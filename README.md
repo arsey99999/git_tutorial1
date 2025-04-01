@@ -129,6 +129,4 @@ git push origin main
 ## 마무리
 
 이제 Git과 GitHub 사용법을 직접 실습하며 익힐 수 있습니다. 
-궁금한 점은 댓글이나 이슈를 통해 남겨주세요.
-
-👉 더 많은 튜토리얼과 AI 활용법은 [gptonline.ai/ko](https://gptonline.ai/ko/)에서 확인하세요!
+궁금한 점은 문의 부탁드려요 
